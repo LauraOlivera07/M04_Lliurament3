@@ -1,6 +1,0 @@
-1. hacer el receptes.xsl (que es como el esquema del html que te tiene que devolver, y tendrá que devolverte 30)
-2. hacer el script xslt.py (que creará los 30 html)
-3. hacer el llistareceptes.xsl (esquema)
-4. hacer el script llistaxslt.py (que pasará la plana que tenias a la que tiene que ser con las nuevas 30 recetas)
-
-
